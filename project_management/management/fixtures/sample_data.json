@@ -1,0 +1,18 @@
+[
+  {
+      "id": 1,
+      "client_name": "Nimap",
+      "created_at": "2019-12-24T11:03:55.931739+05:30",
+      "created_by": {
+          "username": "Rohit"
+      }
+  },
+  {
+      "id": 2,
+      "client_name": "Infotech",
+      "created_at": "2019-12-24T11:03:55.931739+05:30",
+      "created_by": {
+          "username": "Rohit"
+      }
+  }
+]
